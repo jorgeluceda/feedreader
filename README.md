@@ -10,3 +10,17 @@ into struct type values, and does it all using Go's concurrency mechanisms.
 
 ## Program Architecture
 ![architecture](https://i.imgur.com/4Ugq29B.png)
+
+## Program Structure
+
+- feedreader
+	- data
+		- data.json
+	- matchers
+		- rss.go
+	- search
+		- default.go
+		- feed.go
+		- match.go
+		- search.go
+	- main.go
