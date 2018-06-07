@@ -1,6 +1,6 @@
 # feedreader
 
-This program plls different data feeds from the web and compares the content 
+This program pulls different data feeds from the web and compares the content 
 against a specific search term.
 
 The content that matches is then displayed in the terminal window.
